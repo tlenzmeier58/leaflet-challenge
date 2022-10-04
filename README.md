@@ -7,3 +7,10 @@
 1. Import & visualize the data based on latitude & longitude.
 1. Delineate the earthquakes by size & depth.
     1. Earthquakes with higher magnitude should sppear larger.
+    1. Greater depth should appear darker in color.
+1. Include pop-ups that provide additonal information about the earthquake.
+1. Createa legend that will provide context for the map data.
+1. Import & visualize earthquake data traced by tectonic plates.
+1. Add other base maps to choose from.
+1. Put each dataset into separate overlays that can be turned on and off independently.
+1. Add layer controls.
