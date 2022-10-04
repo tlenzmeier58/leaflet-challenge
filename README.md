@@ -4,5 +4,6 @@
 ### The objective of this challenge is to map out earthquake activity. Data is provided by the USGS: http://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php.
 
 ### The following steps were done:
-### 1. Import & visualize the data based on latitude & longitude.
-### 1. Delineate the earthquakes by size & depth.
+1. Import & visualize the data based on latitude & longitude.
+1. Delineate the earthquakes by size & depth.
+  1. Earthquakes with higher magnitude should sppear larger.
