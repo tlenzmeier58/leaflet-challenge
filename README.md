@@ -6,4 +6,4 @@
 ### The following steps were done:
 1. Import & visualize the data based on latitude & longitude.
 1. Delineate the earthquakes by size & depth.
-  1. Earthquakes with higher magnitude should sppear larger.
+    1. Earthquakes with higher magnitude should sppear larger.
